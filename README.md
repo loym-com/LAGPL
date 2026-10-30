@@ -1,17 +1,12 @@
 # LAGPL
 
-LAGPL is a suggestion of a new licence, based on LGPL.
+LAGPL is a new licence by Loym, based on LGPL and AGPL.
 
-**Since LGPL is copyrighted, LAGPL is currently not a legal licence.**
-
-Difference:
-
-- LGPL incorporates GPL and grants additional permissions.
-- LAGPL incorporates AGPL and grants additional permissions.
+LAGPL license = AGPL license + additional permissions similar to LGPL.
 
 Benefits of LAGPL:
 
-1) LAGPL ensures free open source libraries also for remote network users.
+1) LAGPL ensures free open source libraries for remote network users (just like AGPL).
 
 2) Some proprietary software vendors use LGPL for their open source core.
 Their open source communities may have a conflict of
